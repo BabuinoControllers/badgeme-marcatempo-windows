@@ -2,7 +2,7 @@
   <img src="assets/logo-badgeme.svg" alt="BadgeMe Logo" width="250"/>
 </p>
 
-# Marcatempo BadgeMe per Windows
+# Marcatempo BadgeMe per PC
 
 🇬🇧 [English](README.md) | 🇮🇹 Italiano
 

@@ -2,7 +2,7 @@
   <img src="assets/logo-badgeme.svg" alt="BadgeMe Logo" width="250"/>
 </p>
 
-# BadgeMe Time Clock for Windows
+# BadgeMe PC Time Clock
 
 🇬🇧 English | 🇮🇹 [Italiano](README.it.md)
 
