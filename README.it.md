@@ -23,7 +23,7 @@ Software marcatempo desktop per timbrare entrate e uscite e gestire le presenze 
 
 ## 🧭 Panoramica
 
-BadgeMe Time Clock è un software di rilevazione presenze che permette ai dipendenti di timbrare direttamente da PC.
+BadgeMe Desktop Timekeeper è un software di rilevazione presenze che permette ai dipendenti di timbrare direttamente da PC.
 
 È pensato per aziende che vogliono gestire le presenze in modo semplice, senza sistemi complessi o costosi.
 
@@ -49,18 +49,23 @@ BadgeMe Time Clock è un software di rilevazione presenze che permette ai dipend
 
 ## 🔐 Attivazione
 
-Per utilizzare il software è necessario attivare il marcatempo tramite BadgeMe.
+Per utilizzare il software è necessario attivare il marcatempo dal servizio di rilevazioni presenze BadgeMe.
 
-1. Crea un account gratuito  
-   <https://www.badgemeweb.com>  
+1. Crea un account gratuito su <https://www.badgemeweb.com>
 
-2. Configura un nuovo marcatempo dal pannello  
+2. Crea la tua organizzazione.
 
-3. Ottieni il codice di attivazione (licenza)  
+3. Crea i badge della tua organizzazione.
 
-4. Inserisci il codice nel software  
+4. Configura un nuovo marcatempo dal pannello.
+
+5. Ottieni il codice di attivazione (licenza).
+
+6. Inserisci il codice nel marcatempo BadgeMe per PC.  
 
 Dopo l’attivazione, i dipendenti possono iniziare a timbrare.
+
+Per qualsiasi domande o supporto contatteci su [info@badgemeweb.com](mailto:info@badgemeweb.com)
 
 ---
 
@@ -70,10 +75,15 @@ Il software funziona con BadgeMe, sistema di gestione presenze online.
 
 Con BadgeMe puoi:
 
-- monitorare le presenze dei dipendenti  
-- gestire ingressi e uscite  
-- calcolare le ore lavorate  
-- esportare report  
+- monitorare le presenze dei dipendenti
+- gestire ingressi e uscite
+- gestire turni altamente personalizzabili
+- gestire pause, straordinari, notturni
+- calcolare le ore lavorate
+- esportare report mensili
+- comunicazioni private
+- gestire permessi e ferie
+- suddivisione in reparti, supervisori, responsabili
 
 👉 Crea un account gratuito: <https://dashboard.badgemeweb.com>
 👉 Scopri di più: <https://badgemeweb.com>
@@ -84,7 +94,7 @@ Con BadgeMe puoi:
 
 Il marcatempo supporta l’autenticazione tramite badge NFC.
 
-È compatibile con tutti i lettori NFC che supportano lo standard PC/SC.
+È compatibile con tutti i lettori NFC USB che supportano lo standard PC/SC.
 
 Questo consente ai dipendenti di timbrare in modo rapido e sicuro utilizzando badge contactless.
 
@@ -109,7 +119,7 @@ Scarica l’ultima versione dalla [sezione Releases](https://github.com/BabuinoC
 
 ---
 
-## ⚙️ Requisiti
+## ⚙️ Requisiti minimi
 
 - PC Windows 10
 - Account BadgeMe (piano gratuito disponibile)

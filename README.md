@@ -2,7 +2,7 @@
   <img src="assets/logo-badgeme.svg" alt="BadgeMe Logo" width="250"/>
 </p>
 
-# BadgeMe PC Time Clock
+# BadgeMe PC
 
 🇬🇧 English | 🇮🇹 [Italiano](README.it.md)
 
@@ -23,7 +23,7 @@ A simple desktop solution to track working hours and manage employee presence.
 
 ## 🧭 Overview
 
-BadgeMe Time Clock is a lightweight desktop application that allows employees to clock in and out directly from a Windows PC.
+BadgeMe Desktop Timekeeper is a lightweight desktop application that allows employees to clock in and out directly from a Windows PC.
 
 It is designed for companies that want a simple and immediate way to manage attendance without complex systems.
 
