@@ -27,21 +27,23 @@ BadgeMe Time Clock is a lightweight desktop application that allows employees to
 
 It is designed for companies that want a simple and immediate way to manage attendance without complex systems.
 
-✔ Free to use (freeware)  
-✔ Works with the free BadgeMe account  
-✔ No complicated setup  
-✔ Ideal for small businesses and offices  
+✔ Free to use (freeware)
+✔ Works with the free BadgeMe account
+✔ No complicated setup
+✔ Ideal for small businesses and offices
 
 ---
 
 ## 🚀 Features
 
-- Employee clock in / clock out  
-- Attendance tracking  
-- Work hours recording  
-- Digital badge system  
-- Simple and intuitive interface  
-- Desktop-based (Windows)  
+- Employee clock in / clock out
+- Attendance tracking
+- Work hours recording
+- Digital badge system
+- Simple and intuitive interface
+- Desktop-based (Windows)
+- Authentication via code (PIN)
+- NFC badge support (PC/SC compatible readers)
 
 ---
 
@@ -49,14 +51,14 @@ It is designed for companies that want a simple and immediate way to manage atte
 
 To use the software, you need to activate the time clock from your BadgeMe account.
 
-1. Create a free account  
+1. Create a free account
    <https://www.badgemeweb.com>
 
-2. Configure a new time clock device from the dashboard  
+2. Configure a new time clock device from the dashboard
 
-3. Obtain your activation code (license)  
+3. Obtain your activation code (license)
 
-4. Enter the code in the desktop application  
+4. Enter the code in the desktop application
 
 Once activated, employees can start clocking in and out.
 
@@ -68,22 +70,36 @@ This software is designed to work with BadgeMe.
 
 With BadgeMe you can:
 
-- monitor employee attendance  
-- manage working hours  
-- track entries and exits  
-- export reports  
+- monitor employee attendance
+- manage working hours
+- track entries and exits
+- export reports
 
 👉 Create your free account: <https://www.dashboard.badgemeweb.com>
-👉 Learn more: <https://www.badgemeweb.com>  
+👉 Learn more: <https://www.badgemeweb.com>
+
+---
+
+## 📡 NFC Support
+
+BadgeMe Time Clock supports NFC badge authentication.
+
+The software is compatible with all NFC readers that support the PC/SC standard.
+
+This allows employees to clock in and out using contactless badges in a fast and secure way.
+
+<p align="center">
+  <img src="assets/nfc_english.png" alt="NFC screenshot" width="700"/>
+</p>
 
 ---
 
 ## 🚀 Get Started
 
-1. Create a free BadgeMe account  
-2. Configure your time clock and get the activation code  
-3. Download the software from Releases  
-4. Enter the code and start tracking attendance  
+1. Create a free BadgeMe account
+2. Configure your time clock and get the activation code
+3. Download the software from Releases
+4. Enter the code and start tracking attendance
 
 ---
 
@@ -104,7 +120,7 @@ Download the latest version from the [Releases section](https://github.com/Babui
 
 This software is distributed as freeware.
 
-You are allowed to use it for personal and business purposes.  
+You are allowed to use it for personal and business purposes.
 Modification, redistribution, or resale is not permitted.
 
 ---

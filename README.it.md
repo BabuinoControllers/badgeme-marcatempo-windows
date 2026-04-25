@@ -27,21 +27,23 @@ BadgeMe Time Clock è un software di rilevazione presenze che permette ai dipend
 
 È pensato per aziende che vogliono gestire le presenze in modo semplice, senza sistemi complessi o costosi.
 
-✔ 100% gratuito (freeware)  
-✔ Compatibile con BadgeMe  
-✔ Facile da usare  
-✔ Ideale per piccole aziende e uffici  
+✔ 100% gratuito (freeware)
+✔ Compatibile con BadgeMe
+✔ Facile da usare
+✔ Ideale per piccole aziende e uffici
 
 ---
 
 ## 🚀 Funzionalità
 
-- Timbratura entrata e uscita dipendenti  
-- Rilevazione presenze  
-- Registrazione ore lavorate  
-- Sistema badge digitale  
-- Interfaccia semplice e intuitiva  
-- Utilizzo da PC Windows  
+- Timbratura entrata e uscita dipendenti
+- Rilevazione presenze
+- Registrazione ore lavorate
+- Sistema badge digitale
+- Interfaccia semplice e intuitiva
+- Utilizzo da PC Windows
+- Autenticazione tramite codice (PIN)
+- Supporto badge NFC (lettori compatibili PC/SC)
 
 ---
 
@@ -78,12 +80,26 @@ Con BadgeMe puoi:
 
 ---
 
+## 📡 Supporto NFC
+
+Il marcatempo supporta l’autenticazione tramite badge NFC.
+
+È compatibile con tutti i lettori NFC che supportano lo standard PC/SC.
+
+Questo consente ai dipendenti di timbrare in modo rapido e sicuro utilizzando badge contactless.
+
+<p align="center">
+  <img src="assets/nfc_italiano.png" alt="Screenshot NFC" width="700"/>
+</p>
+
+---
+
 ## 🚀 Inizia subito
 
-1. Crea un account gratuito su BadgeMe  
-2. Configura il marcatempo e ottieni il codice  
-3. Scarica il software dalla sezione Releases  
-4. Inserisci il codice e inizia a timbrare  
+1. Crea un account gratuito su BadgeMe
+2. Configura il marcatempo e ottieni il codice
+3. Scarica il software dalla sezione Releases
+4. Inserisci il codice e inizia a timbrare
 
 ---
 
@@ -96,7 +112,7 @@ Scarica l’ultima versione dalla [sezione Releases](https://github.com/BabuinoC
 ## ⚙️ Requisiti
 
 - PC Windows 10
-- Account BadgeMe (piano gratuito disponibile)  
+- Account BadgeMe (piano gratuito disponibile)
 
 ---
 
@@ -106,13 +122,13 @@ Questo software è distribuito come freeware.
 
 È consentito:
 
-- utilizzare il software gratuitamente  
+- utilizzare il software gratuitamente
 
 Non è consentito:
 
-- modificare o decompilare il software  
-- ridistribuirlo senza autorizzazione  
-- venderlo  
+- modificare o decompilare il software
+- ridistribuirlo senza autorizzazione
+- venderlo
 
 ---
 
