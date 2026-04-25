@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-badgeme.png" alt="BadgeMe Logo" width="180"/>
+  <img src="assets/logo-badgeme.svg" alt="BadgeMe Logo" width="250"/>
 </p>
 
 # Marcatempo BadgeMe per Windows
@@ -9,7 +9,7 @@
 Marcatempo dipendenti gratis per PC Windows, semplice e pronto all’uso.  
 Software marcatempo desktop per timbrare entrate e uscite e gestire le presenze in modo immediato.
 
-👉 Crea un account gratuito BadgeMe: https://www.badgeme.com
+👉 Crea un account gratuito BadgeMe: <https://www.badgemeweb.com>
 
 ⚠️ Richiede attivazione dal pannello BadgeMe
 
@@ -50,7 +50,7 @@ BadgeMe Time Clock è un software di rilevazione presenze che permette ai dipend
 Per utilizzare il software è necessario attivare il marcatempo tramite BadgeMe.
 
 1. Crea un account gratuito  
-   https://www.badgeme.com  
+   <https://www.badgemeweb.com>  
 
 2. Configura un nuovo marcatempo dal pannello  
 
@@ -67,13 +67,14 @@ Dopo l’attivazione, i dipendenti possono iniziare a timbrare.
 Il software funziona con BadgeMe, sistema di gestione presenze online.
 
 Con BadgeMe puoi:
+
 - monitorare le presenze dei dipendenti  
 - gestire ingressi e uscite  
 - calcolare le ore lavorate  
 - esportare report  
 
-👉 Crea un account gratuito: https://www.badgeme.com  
-👉 Scopri di più: https://www.badgeme.com  
+👉 Crea un account gratuito: <https://dashboard.badgemeweb.com>
+👉 Scopri di più: <https://badgemeweb.com>
 
 ---
 
@@ -104,9 +105,11 @@ Scarica l’ultima versione dalla sezione Releases.
 Questo software è distribuito come freeware.
 
 È consentito:
+
 - utilizzare il software gratuitamente  
 
 Non è consentito:
+
 - modificare o decompilare il software  
 - ridistribuirlo senza autorizzazione  
 - venderlo  
@@ -117,6 +120,6 @@ Non è consentito:
 
 Per domande o supporto:
 
-📧 support@badgeme.com  
+📧 [info@badgemeweb.com](mailto:info@badgemeweb.com)
 
-🌐 https://www.badgeme.com
+🌐 <https://www.badgemeweb.com>

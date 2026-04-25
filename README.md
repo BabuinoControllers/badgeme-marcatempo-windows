@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-badgeme.png" alt="BadgeMe Logo" width="180"/>
+  <img src="assets/logo-badgeme.svg" alt="BadgeMe Logo" width="250"/>
 </p>
 
 # BadgeMe Time Clock for Windows
@@ -9,7 +9,7 @@
 Free Windows time clock software for employee attendance.  
 A simple desktop solution to track working hours and manage employee presence.
 
-👉 Create a free BadgeMe account: https://www.badgeme.com
+👉 Create a free BadgeMe account: <https://www.badgemeweb.com>
 
 ⚠️ Requires activation via BadgeMe dashboard
 
@@ -50,7 +50,7 @@ It is designed for companies that want a simple and immediate way to manage atte
 To use the software, you need to activate the time clock from your BadgeMe account.
 
 1. Create a free account  
-   https://www.badgeme.com  
+   <https://www.badgemeweb.com>
 
 2. Configure a new time clock device from the dashboard  
 
@@ -67,13 +67,14 @@ Once activated, employees can start clocking in and out.
 This software is designed to work with BadgeMe.
 
 With BadgeMe you can:
+
 - monitor employee attendance  
 - manage working hours  
 - track entries and exits  
 - export reports  
 
-👉 Create your free account: https://www.badgeme.com  
-👉 Learn more: https://www.badgeme.com  
+👉 Create your free account: <https://www.dashboard.badgemeweb.com>
+👉 Learn more: <https://www.badgemeweb.com>  
 
 ---
 
@@ -112,6 +113,6 @@ Modification, redistribution, or resale is not permitted.
 
 For questions or support:
 
-📧 support@badgeme.com  
+📧 [info@badgeme.com)](mailto:info@badgeme.com)
 
-🌐 https://www.badgeme.com
+🌐 <https://www.badgemeweb.com>
