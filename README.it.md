@@ -16,7 +16,7 @@ Software marcatempo desktop per timbrare entrate e uscite e gestire le presenze 
 ---
 
 <p align="center">
-  <img src="assets/screenshot-marcatempo.png" alt="Screenshot Marcatempo" width="700"/>
+  <img src="assets/italiano.png" alt="Screenshot Marcatempo" width="700"/>
 </p>
 
 ---
@@ -89,13 +89,13 @@ Con BadgeMe puoi:
 
 ## 📥 Download
 
-Scarica l’ultima versione dalla sezione Releases.
+Scarica l’ultima versione dalla [sezione Releases](https://github.com/BabuinoControllers/badgeme-marcatempo-windows/releases/latest).
 
 ---
 
 ## ⚙️ Requisiti
 
-- PC Windows  
+- PC Windows 10
 - Account BadgeMe (piano gratuito disponibile)  
 
 ---

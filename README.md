@@ -16,7 +16,7 @@ A simple desktop solution to track working hours and manage employee presence.
 ---
 
 <p align="center">
-  <img src="assets/screenshot-marcatempo.png" alt="Time Clock Screenshot" width="700"/>
+  <img src="assets/english.png" alt="Time Clock Screenshot" width="600"/>
 </p>
 
 ---
@@ -89,13 +89,13 @@ With BadgeMe you can:
 
 ## 📥 Download
 
-Download the latest version from the Releases section.
+Download the latest version from the [Releases section](https://github.com/BabuinoControllers/badgeme-marcatempo-windows/releases/latest).
 
 ---
 
 ## ⚙️ Requirements
 
-- Windows PC  
+- Windows PC Windows 10
 - BadgeMe account (free plan available)  
 
 ---
@@ -113,6 +113,6 @@ Modification, redistribution, or resale is not permitted.
 
 For questions or support:
 
-📧 [info@badgeme.com)](mailto:info@badgeme.com)
+📧 [info@badgeme.com](mailto:info@badgeme.com)
 
 🌐 <https://www.badgemeweb.com>
